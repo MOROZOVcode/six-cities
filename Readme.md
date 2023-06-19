@@ -93,9 +93,11 @@
 
 <br>
 
+---
+
 > Открыть сайт можно по ссылке: [six-cities-morozovcode.vercel.app](https://six-cities-morozovcode.vercel.app/)
 
----
+> В моём личном блоге есть [_**пост**_](https://t.me/morozov_code/107) об этом проекте.
 
 <br>
 
